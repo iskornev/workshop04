@@ -35,6 +35,7 @@ div.links {
 
 div.links a {
 	text-decoration: none;
+	margin-bottom: 10px;
 	padding: 10px;
 	color: rgb(255,255,255);
 	display: inline-block;
