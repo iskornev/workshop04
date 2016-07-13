@@ -1,0 +1,78 @@
+body {
+	font-family: 'Metrophobic', Arial, sans-serif; 
+	margin: 70px;
+	background-image: 
+	url(file:///Users/andreyiskornev/Desktop/workshop04/background.png);  	
+}
+
+*
+{
+	box-sizing: border-box;
+}
+
+#question {
+	position: fixed;
+	right: 0;
+	left: 0;
+	z-index: 1;
+	text-align: center;
+	pointer-events: none;
+	}
+	#question img {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+}
+
+div.links {
+	font-size: 0;
+	margin: 275px 0;
+}
+
+div.links a {
+	text-decoration: none;
+	padding: 10px;
+	color: rgb(255,255,255);
+	display: inline-block;
+	vertical-align: top;
+	width: 33.333%;
+	height: 200px;
+	background: crimson;
+	font-size: 35px;
+}
+
+div.links a:hover {
+	background: yellow;
+}
+
+a.tape:hover {
+	font-family: "Georgia";
+}
+
+a.personality:hover {
+	font-family: "Georgia";
+}
+
+a.plastic:hover,
+a.world:hover {
+	font-family: "Georgia";
+}
+
+a.coughing:hover,
+a.chinchilla:hover {
+	font-family: "Georgia";
+}
+
+a.cancel:hover,
+a.control:hover {
+	font-family: "Georgia";
+}
+
+a.window:hover,
+a.meditate:hover {
+	font-family: "Georgia";
+}
