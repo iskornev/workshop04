@@ -2,7 +2,8 @@ body {
 	font-family: 'Metrophobic', Arial, sans-serif; 
 	margin: 70px;
 	background-image: 
-	url(https://raw.githubusercontent.com/iskornev/workshop04/gh-pages/background.png);  	
+	url(https://raw.githubusercontent.com/iskornev/workshop04/gh-pages/background.png);  
+	background-size:950px;
 }
 
 *
